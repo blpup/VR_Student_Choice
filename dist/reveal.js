@@ -1,6 +1,6 @@
 /*!
 * reveal.js 4.0.2
-* https://revealjs.com
+* http://https://blpup.github.io/VR_Student_Choice
 * MIT licensed
 *
 * Copyright (C) 2020 Hakim El Hattab, https://hakim.se

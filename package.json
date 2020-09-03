@@ -1,16 +1,18 @@
 {
-  "name": "reveal.js",
+  "name": "VR_Student_Choice",
   "version": "4.0.2",
   "description": "The HTML Presentation Framework",
-  "homepage": "https://revealjs.com",
-  "subdomain": "revealjs",
+  "homepage": "http://https://blpup.github.io/VR_Student_Choice",
+  "subdomain": "VR_Student_Choice",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
   "license": "MIT",
   "scripts": {
     "test": "gulp test",
     "start": "gulp serve",
-    "build": "gulp"
+    "build": "gulp",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "author": {
     "name": "Hakim El Hattab",
@@ -39,6 +41,7 @@
     "babel-plugin-transform-html-import-to-string": "0.0.1",
     "colors": "^1.4.0",
     "core-js": "^3.6.5",
+    "gh-pages": "^3.1.0",
     "glob": "^7.1.6",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
