@@ -22,10 +22,10 @@ The Weaknesses of this technology are:
 ## Conclusion
 Lenovo VR Classroom 2 is an immersive experience for students to learn different topics. With its easy teacher’s dashboard, it lets the teachers share content with their students easily. Allowing students to study science, math, and multi culture like classes with an interactive experience. However, with its lower DOF it may cause dizziness with over extended use.
 ## References
-*https://9to5toys.com/2020/06/01/lenovo-mirage-vr-s3/
-*https://support.lenovo.com/us/en/solutions/pd500394/
-*https://virtualspeech.com/blog/motion-sickness-vr#:~:text=Take%20it%20slowly%20and%20control,what%20to%20expect%20and%20when.
-*https://www.classvr.com/
-*https://www.journeyed.com/products/Lenovo/VR+classroom+kit
-*https://www.itbusiness.ca/news/lenovo-introduces-virtual-reality-classroom-to-canadian-education/106718
-*https://www.mechatech.co.uk/journal/what-is-a-3dof-vs-6dof-in-vr
+* https://9to5toys.com/2020/06/01/lenovo-mirage-vr-s3/
+* https://support.lenovo.com/us/en/solutions/pd500394/
+* https://virtualspeech.com/blog/motion-sickness-vr#:~:text=Take%20it%20slowly%20and%20control,what%20to%20expect%20and%20when.
+* https://www.classvr.com/
+* https://www.journeyed.com/products/Lenovo/VR+classroom+kit
+* https://www.itbusiness.ca/news/lenovo-introduces-virtual-reality-classroom-to-canadian-education/106718
+* https://www.mechatech.co.uk/journal/what-is-a-3dof-vs-6dof-in-vr
